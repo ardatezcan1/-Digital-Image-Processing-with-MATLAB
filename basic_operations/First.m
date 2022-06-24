@@ -2,7 +2,7 @@ load functionsLUT; %inverse, invlog, log, saw. square, squareroot
 %
 plot(square); %to see one of LUT function
 %
-P1=imread('C:\Users\ardte\OneDrive\Masaüstü\Basic Operations\lena.bmp')%Image Path
+P1=imread('..images\lena.bmp')%Image Path
 figure(2)
 imshow(P1)
 %
