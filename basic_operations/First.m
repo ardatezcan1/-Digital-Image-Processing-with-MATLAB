@@ -1,3 +1,7 @@
+clearvars;
+close all;
+clc;
+
 load functionsLUT; %inverse, invlog, log, saw. square, squareroot
 %
 plot(square); %to see one of LUT function
